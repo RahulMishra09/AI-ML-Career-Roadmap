@@ -27,7 +27,11 @@
 - [ ] Prompt engineering (few-shot, chain-of-thought, self-consistency)  
 - [ ] Fine-tuning open-source models (LoRA/QLoRA)  
 - [ ] Evaluate LLMs (helpfulness, factuality, alignment)
-- [ ] 
+      
+🧩 **Libraries to Practice:**
+- Hugging Face Transformers  
+- PEFT / LoRA  
+- LangChain / OpenAI APIs 
 ---
 
 ## ⚙️ 3. Data Quality & Automation

@@ -94,7 +94,41 @@
 
 ---
 
-## 🧠 9. Build Practical Projects
+## 🔍 9. Vector Databases
+
+- [ ] Pinecone
+  - [ ] Document indexing and retrieval
+  - [ ] Similarity search
+  - [ ] Metadata filtering
+  
+- [ ] Weaviate
+  - [ ] Schema design
+  - [ ] Multi-modal data storage
+  - [ ] GraphQL queries
+  
+- [ ] Milvus
+  - [ ] Vector index types (IVF, HNSW)
+  - [ ] Partitioning strategies
+  - [ ] Scalability features
+  
+- [ ] Qdrant
+  - [ ] Collection management
+  - [ ] Vector payloads
+  - [ ] Filtering capabilities
+  
+- [ ] Chroma
+  - [ ] Embedding functions
+  - [ ] Document chunking
+  - [ ] Local persistence
+  
+- [ ] FAISS (Facebook AI Similarity Search)
+  - [ ] Index types and structures
+  - [ ] GPU acceleration
+  - [ ] Clustering and quantization
+
+---
+
+## 🧠 10. Build Practical Projects
 
 | Project | Description | Skills Covered |
 |----------|--------------|----------------|
